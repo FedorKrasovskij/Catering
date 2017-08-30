@@ -1,0 +1,311 @@
+.logo{
+width: 97px;
+height: 97px;
+position: absolute;
+top: 11px;
+left: 200px;
+}
+ul.nav li{
+width: 92px;
+height: 13px;
+color: #000000;
+font-family: "Open Sans";
+font-size: 18px;
+font-weight: 400;
+font-variant: small-caps;
+display: inline;
+}
+.word{
+word-spacing: 20px;	
+position: absolute;
+top: 42px;
+left: 500px;
+}
+.icons{
+word-spacing: 30px;	
+position: absolute;
+top: 41px;
+left: 1210px;
+}
+.fa-vk{
+border: 1px solid black;	
+}
+.fa-vk:hover{
+color: #bc2437;
+border: 1px solid #bc2437;
+}
+.fa-twitter{
+border: 1px solid black;	
+}
+.fa-twitter:hover{
+color: #bc2437;
+border: 1px solid #bc2437;
+}
+.fa-google{
+border: 1px solid black;	
+}
+.fa-google:hover{
+color: #bc2437;
+border: 1px solid #bc2437;	
+}
+.fon{
+width: 1280px;
+height: 2750px;
+position: absolute;
+top: 130px;
+left: 160px;
+}
+.font{
+position: absolute;
+top: 250px;
+left: 425px;
+}
+.wow{
+position: absolute;
+top: 45px;
+left: 300px;	
+}
+.name{
+position: absolute;
+top: 130px;
+left: 30px;
+width: 342px;
+height: 34px;
+border: 2px solid #b5b5b5;
+}
+.name:hover{
+border: 2px solid #bc2437;	
+}
+.mobil{
+position: absolute;
+top: 200px;
+left: 30px;
+width: 342px;
+height: 34px;
+border: 2px solid #b5b5b5;	
+}
+.mobil:hover{
+border: 2px solid #bc2437;	
+}
+.mail{
+position: absolute;
+top: 270px;
+left: 30px;
+width: 342px;
+height: 34px;
+border: 2px solid #b5b5b5;	
+}
+.mail:hover{
+border: 2px solid #bc2437;	
+}
+.headers{
+position: absolute;
+top: 130px;
+left: 387px;
+width: 342px;
+height: 34px;
+border: 2px solid #b5b5b5;	
+}
+.headers:hover{
+border: 2px solid #bc2437;	
+}
+.coment{
+position: absolute;
+top: 200px;
+left: 387px;
+width: 342px;
+height: 104px;
+border: 2px solid #b5b5b5;
+}
+.coment:hover{
+border: 2px solid #bc2437;	
+}
+input::-webkit-input-placeholder {
+color: #5a5959;
+font-family: "Open Sans";
+font-size: 14px;
+font-weight: 400;
+}
+.reset{
+position: absolute;
+top: 8px;
+left: 690px;
+background-color: #ffffff;	
+}
+.account{
+position: absolute;
+top: 340px;
+left: 310px;
+width: 135px;
+height: 45px;
+border-radius: 2px;
+background-color: #bc2336;
+color: #ffffff;
+font-family: "Open Sans";
+font-size: 18px;
+font-weight: bold;
+font-variant: small-caps;
+}
+.catering{
+position: absolute;
+top: 590px;
+left: 280px;
+color: #000000;
+font-family: Lobster;
+font-size: 36px;
+font-weight: 400;
+}
+.text{
+position: absolute;
+top: 660px;
+left: -120px;
+width: 989px;
+height: 44px;
+color: #000000;
+font-family: "Open Sans";
+font-size: 20px;
+font-weight: 400;
+text-align: center;
+}
+.wedding{
+position: absolute;
+top: 770px;
+left: -280px;	
+}
+.wed{
+position: absolute;
+top: 40px;
+left: 100px;
+background: rgba(248,248,255, 0.8);
+width: 200px; height: 200px;
+border-radius: 100%;
+}
+.wed:hover{
+border: 2px solid #bc2437;	
+}
+.tex{
+position: absolute;
+top: 125px;
+left: 165px;	
+color: #000000;
+font-family: "Open Sans";
+font-size: 18px;
+font-weight: 400;
+font-variant: small-caps;
+}
+.tex:hover{
+color: #bc2437;	
+}
+.banquet{
+position: absolute;
+top: 770px;
+left: 180px;
+}
+.ban{
+position: absolute;
+top: 125px;
+left: 170px;	
+color: #000000;
+font-family: "Open Sans";
+font-size: 18px;
+font-weight: 400;
+font-variant: small-caps;
+}
+.ban:hover{
+color: #bc2437;	
+}
+.restaurant{
+position: absolute;
+top: 770px;
+left: 640px;	
+}
+.rest{
+position: absolute;
+top: 125px;
+left: 110px;	
+color: #000000;
+font-family: "Open Sans";
+font-size: 18px;
+font-weight: 400;
+font-variant: small-caps;
+text-align: center;	
+}
+.rest:hover{
+color: #bc2437;	
+}
+.reception{
+position: absolute;
+top: 1100px;
+left: -280px;	
+}
+.bbq{
+position: absolute;
+top: 1100px;
+left: 180px;	
+}
+.kofe{
+position: absolute;	
+top: 1100px;
+left: 640px;	
+}
+.kof{
+position: absolute;
+top: 125px;
+left: 148px;	
+color: #000000;
+font-family: "Open Sans";
+font-size: 18px;
+font-weight: 400;
+font-variant: small-caps;
+}
+.kof:hover{
+color: #bc2437;	
+}
+.black{
+position: absolute;
+top: 1450px;
+left: -260px;
+width: 1280px;
+height: 246px;
+border: 1px solid #d0d0d0;
+background-color: #000000;
+}
+.wwo{
+position: absolute;
+top: 40px;
+left: 560px;
+color: #ffffff;
+font-family: Lobster;
+font-size: 24px;
+font-weight: 400;	
+}
+.gudanov{
+position: absolute;
+top: 90px;
+left: 540px;
+text-align: center;
+color: #ffffff;
+font-family: "Open Sans";
+font-size: 14px;
+font-weight: 400;
+line-height: 18px;
+font-variant: small-caps;
+}
+.icon{
+word-spacing: 30px;	
+position: absolute;
+top: 190px;
+left: 550px;
+}
+div.icon i.fa-vk {
+border: 1px solid #ffffff;
+color: #ffffff;
+}
+div.icon i.fa-twitter{
+border: 1px solid #ffffff;
+color: #ffffff;	
+}
+div.icon i.fa-google{
+border: 1px solid #ffffff;
+color: #ffffff;	
+}
